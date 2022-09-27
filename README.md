@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Penny!
+- 🌱 I’m currently learning a little bit of python
+- Website https://pennywtf.ml
