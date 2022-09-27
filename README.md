@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Penny!
-- 🌱 I’m currently learning a little bit of python
+- I'm a developer.
+- I do game development at ROBLOX over 30k+ visits.
 - Website https://pennywtf.ml
