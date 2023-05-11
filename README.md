@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Penny!
-- I'm a developer.
-- I do game development at ROBLOX over 30k+ visits.
+- I'm a web developer.
+- I also do some game development on ROBLOX! Over 100K+ visits!
 - Website https://pennywtf.ml
