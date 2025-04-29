@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luaudevs&label=Profile%20views&color=b417ee&style=flat" alt="luaudevs" /> </p>
 
-- You can check more about me in [https://pennyderve.site](https://pennyderve.site)
+- You can check more about me in [https://luau.world](https://luau.world)
 
 
 <h3 align="left">My Experiences:</h3>
